@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chrisw282
 - 👀 I’m interested in video games 
-- 🌱 I’m currently learning app programming, but I'm thinking of changing
-- 💞️ I’m looking to collaborate on short projects or apps
+- 🌱 I’m currently learning Game Design
 - 📫 How to reach me - chrisw1209@gmail.com
 
 <!---
